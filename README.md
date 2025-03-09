@@ -1,5 +1,5 @@
 # ODI Cricket Data Analysis Dashboard
-
+![odi ](https://github.com/user-attachments/assets/a64cb555-9dd8-483e-a7d0-699b35589962)
 ## Overview
 
 The ODI Cricket Data Analysis Dashboard is an interactive Power BI report that provides in-depth insights into One Day International (ODI) cricket matches. Designed for cricket analysts, enthusiasts, and decision-makers, the dashboard enables users to explore player performances, team statistics, and match outcomes through dynamic visualizations.
@@ -70,6 +70,7 @@ How to Use
 3. Refresh Data (if connected to live data sources):
 
 Go to "Home" > "Refresh" to update the data displayed in the report.
+
 
 Contributing:
 
