@@ -41,18 +41,15 @@ To connect to live data or update datasets:
 Usage:
 
 Navigating the Dashboard:
-
       Use the tabs at the bottom to switch between different analysis views (e.g., Player Performance, Team Comparison, Match Trends).
       Interactive elements such as slicers and filters are available on the right pane to customize the data displayed.
 
 Analyzing Data:
-
       Hover over charts and graphs to view detailed tooltips with specific data points.
       Click on data points within visuals to drill down into more granular information.
       Use the slicers to filter data by player, team, year, or other categories.
 
 Requirements
-
       Power BI Desktop: Required to open and interact with the .pbix report file.
       Operating System: Compatible with Windows operating systems.
       Internet Connection: Necessary for data source connectivity and refreshing live data.
@@ -77,7 +74,6 @@ Go to "Home" > "Refresh" to update the data displayed in the report.
 Contributing:
 
 Contributions to enhance the dashboard's features and data accuracy are welcome. To contribute:
-
     1. Fork the Repository: Create a personal fork of the project repository.
     2. Create a Branch: Develop your feature or fix on a new branch.
     3. Commit Changes: Ensure your code adheres to project standards and includes appropriate tests.
@@ -89,7 +85,6 @@ License:
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 Acknowledgments:
-
     1. ESPN Cricinfo for providing comprehensive cricket data.
     2. Power BI for enabling interactive data visualizations.
     3. DAX for advanced data modeling and calculations.
